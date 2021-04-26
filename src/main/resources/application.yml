@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: /com.techefx.microservices.techefxeurekanamingserver
+
+server:
+  port: 8761
